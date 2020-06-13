@@ -7,3 +7,4 @@ tags={
 }
 name="Sieg der Niederlage"
 supported_version="1.9.3"
+replace_path="common/bookmarks"
