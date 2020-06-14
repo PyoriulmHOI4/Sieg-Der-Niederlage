@@ -307,6 +307,7 @@ add_to_faction = GER
 
 add_ideas = {
 	GER_Einheit_Und_Vaterland
+	GER_Hitlerjugend
 	general_staff
 	limited_exports
 	limited_conscription

@@ -9,5 +9,14 @@ ideas = {
                 stability_factor = 0.05
             }
         }
+        GER_Hitlerjugend = {
+            allowed = { original_tag = GER }
+            picture = GER_Hitlerjugend
+            removal_cost = -1
+            modifier = {
+                army_org_factor = 0.03
+                conscription_factor = 0.05
+            }
+        }
     }
 }
