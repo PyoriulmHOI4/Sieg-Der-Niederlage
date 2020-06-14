@@ -1,0 +1,13 @@
+ideas = {
+    country = {
+        GER_Einheit_Und_Vaterland = {
+            allowed = { original_tag = GER }
+            picture = GER_Einheit_Und_Vaterland
+            removal_cost = -1
+            modifier = {
+                political_power_gain = 0.05
+                stability_factor = 0.05
+            }
+        }
+    }
+}

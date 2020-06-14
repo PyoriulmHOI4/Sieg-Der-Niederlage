@@ -306,7 +306,7 @@ add_to_faction = GER
 
 
 add_ideas = {
-	sour_loser
+	GER_Einheit_Und_Vaterland
 	general_staff
 	limited_exports
 	limited_conscription
