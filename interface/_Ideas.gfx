@@ -1,0 +1,6 @@
+spriteTypes = {
+    spriteType = {
+        name = "GFX_idea_GER_Einheit_Und_Vaterland"
+        texturefile = "gfx/interface/ideas/spirits/GER_Einheit_Und_Vaterland.dds"
+    }
+}
