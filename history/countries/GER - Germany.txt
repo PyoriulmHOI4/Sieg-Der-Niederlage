@@ -126,7 +126,6 @@ create_import = {
 		rudolf_hess
 		ludwig_beck
 		gerd_von_rundstedt
-		GER_autarky_idea
 
 		#laws
 		war_economy
@@ -309,13 +308,11 @@ add_ideas = {
 	GER_Einheit_Und_Vaterland
 	GER_Hitlerjugend
 	GER_Generalplan_Ost
+	GER_Beaurecratic_High_Command
 	limited_exports
 	limited_conscription
 	partial_economic_mobilisation
 }
-add_ideas = GER_mefo_bills_1
-
-activate_mission = GER_mefo_bills_mission
 
 create_country_leader = {
 	name = "Adolf Hitler"
