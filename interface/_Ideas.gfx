@@ -7,4 +7,8 @@ spriteTypes = {
         name = "GFX_idea_GER_Hitlerjugend"
         texturefile = "gfx/interface/ideas/spirits/GER_Hitlerjugend.dds"
     }
+    spriteType = {
+        name = "GFX_idea_GER_Generalplan_Ost"
+        texturefile = "gfx/interface/ideas/spirits/GER_Generalplan_Ost.dds"
+    }
 }

@@ -308,7 +308,7 @@ add_to_faction = GER
 add_ideas = {
 	GER_Einheit_Und_Vaterland
 	GER_Hitlerjugend
-	general_staff
+	GER_Generalplan_Ost
 	limited_exports
 	limited_conscription
 	partial_economic_mobilisation
@@ -335,6 +335,7 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = conservatism
 	traits = {
+		#no traits
 	}
 }
 
@@ -374,11 +375,6 @@ create_country_leader = {
 #		political_prisoner
 #	}
 #}
-
-add_namespace = {
-	name = "ger_unit_leader"
-	type = unit_leader
-}
 
 create_field_marshal = {
 	name = "Gerd von Rundstedt"

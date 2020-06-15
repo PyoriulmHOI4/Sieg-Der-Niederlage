@@ -1,0 +1,21 @@
+state={
+	id=797
+	name="STATE_797"
+	provinces={
+		334 362 389 3324 9263 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history = {
+		owner = GER
+		add_core_of = GER
+		buildings = {
+			362 = {
+				naval_base = 5
+			}
+		}
+		victory_points = {
+			362 10 
+		}
+	}
+}
