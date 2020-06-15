@@ -316,7 +316,7 @@ add_ideas = {
 
 create_country_leader = {
 	name = "Adolf Hitler"
-	desc = "POLITICS_ADOLF_HITLER_DESC"
+	desc = "GER_Adolf_Hitler_Desc"
 	picture = "P_Adolf_Hitler.tga"
 	expire = "1965.1.1"
 	ideology = nazism
