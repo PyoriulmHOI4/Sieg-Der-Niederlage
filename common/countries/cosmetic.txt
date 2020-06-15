@@ -316,36 +316,36 @@ POR_empire = {
 }
 
 POL_generalgouvernement = {
-	color = rgb { 100 100 100 }
-	color_ui = rgb { 100 100 100 }
+	color = rgb { 120 120 120 }
+	color_ui = rgb { 120 120 120 }
 }
 
 BEL_reichskommissariat = {
-	color = rgb { 100 100 100 }
-	color_ui = rgb { 100 100 100 }
+	color = rgb { 120 120 120 }
+	color_ui = rgb { 120 120 120 }
 }
 
 NOR_reichskommissariat = {
-	color = rgb { 100 100 100 }
-	color_ui = rgb { 100 100 100 }
+	color = rgb { 120 120 120 }
+	color_ui = rgb { 120 120 120 }
 }
 
 UKR_reichskommissariat = {
-	color = rgb { 100 100 100 }
-	color_ui = rgb { 100 100 100 }
+	color = rgb { 120 120 120 }
+	color_ui = rgb { 120 120 120 }
 }
 
 DEN_reichsprotektorat = {
-	color = rgb { 100 100 100 }
-	color_ui = rgb { 100 100 100 }
+	color = rgb { 120 120 120 }
+	color_ui = rgb { 120 120 120 }
 }
 
 HOL_reichskommissariat = {
-	color = rgb { 100 100 100 }
-	color_ui = rgb { 100 100 100 }
+	color = rgb { 120 120 120 }
+	color_ui = rgb { 120 120 120 }
 }
 
 BLR_reichskommissariat = {
-	color = rgb { 100 100 100 }
-	color_ui = rgb { 100 100 100 }
+	color = rgb { 120 120 120 }
+	color_ui = rgb { 120 120 120 }
 }

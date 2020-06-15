@@ -138,7 +138,7 @@ set_popularities = {
 	communism = 2
 }
 
-set_country_flag = DEN_reichsprotektorat
+set_cosmetic_tag = DEN_reichsprotektorat
 
 
 1939.1.1 = {

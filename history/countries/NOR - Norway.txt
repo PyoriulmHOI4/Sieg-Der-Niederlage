@@ -137,7 +137,7 @@ set_popularities = {
 	communism = 2
 }
 
-set_country_flag = NOR_reichskommissariat
+set_cosmetic_tag = NOR_reichskommissariat
 
 1939.1.1 = {
 	set_politics = {

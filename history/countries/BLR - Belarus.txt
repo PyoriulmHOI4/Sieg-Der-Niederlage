@@ -67,7 +67,7 @@ set_popularities = {
 	fascism = 5
 }
 
-set_country_flag = BLR_reichskommissariats
+set_cosmetic_tag = BLR_reichskommissariats
 
 create_country_leader = {
     name = "Vasil Zacharka"

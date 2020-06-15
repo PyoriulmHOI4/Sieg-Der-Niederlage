@@ -89,7 +89,7 @@ set_popularities = {
 	communism = 6
 }
 
-set_country_flag = BEL_reichskommissariat
+set_cosmetic_tag = BEL_reichskommissariat
 
 1939.1.1 = {
 	set_politics = {

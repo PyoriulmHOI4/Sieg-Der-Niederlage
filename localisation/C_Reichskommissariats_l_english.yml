@@ -1,0 +1,29 @@
+﻿l_english:
+### RK Ostland
+BLR_reichskommissariat: "Reichskommissariat Ostland"
+BLR_reichskommissariat_DEF: "the Reichskommissariat Ostland"
+BLR_reichskommissariat_ADJ: "Osteuropa"
+### Generalgouvernement
+POL_generalgouvernement: "Generalgouvernement"
+POL_generalgouvernement_DEF: "the Generalgouvernement"
+POL_generalgouvernement_ADJ: "Polish"
+### RK Belgien-Nordfrankreich
+BEL_reichskommissariat: "Reichskommissariat Belgien-Nordfrankreich"
+BEL_reichskommissariat_DEF: "the Reichskommissariat Belgien-Nordfrankreich"
+BEL_reichskommissariat_ADJ: "Belgisch-Nordfranzösisch"
+### RK Niederlande
+HOL_reichskommissariat: "Reichskommissariat Niederlande"
+HOL_reichskommissariat_DEF: "the Reichskommissariat Niederlande"
+HOL_reichskommissariat_ADJ: "Niederländisch"
+### RK Ukraine
+UKR_reichskommissariat: "Reichskommissariat Ukraine"
+UKR_reichskommissariat_DEF: "the Reichskommissariat Ukraine"
+UKR_reichskommissariat_ADJ: "Ukrainisch"
+### RP Dänemark
+DEN_reichskommissariat: "Reichsprotektorat Dänemark"
+DEN_reichskommissariat_DEF: "the Reichsprotektorat Dänemark"
+DEN_reichskommissariat_ADJ: "Dänisch"
+### RK Norwegen
+NOR_reichskommissariat: "Reichskommissariat Norwegen"
+NOR_reichskommissariat_DEF: "the Reichskommissariat Norwegen"
+NOR_reichskommissariat_ADJ: "Norwegisch"
