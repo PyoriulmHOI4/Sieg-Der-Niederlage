@@ -1,20 +1,20 @@
-add_namespace = FRA
+add_namespace = fra
 
 event = {
-	id = FRA.1
-	title = FRA.1.t
-	desc = FRA.1.desc
-	picture = GFX_Report_FRA_Death_Of_Philippe_Petain
+	id = fra.1
+	title = fra.1.t
+	desc = fra.1.desc
+	picture = GFX_Report_fra_Death_Of_Philippe_Petain
 	trigger = { date > 1951.07.23 }
 	mean_time_to_happen = { days = 1 }
 	
 	option = {
-		name = FRA.1.a
+		name = fra.1.a
 		ai_chance = { base = 5 }
 		hidden_effect = { kill_country_leader = yes }
 		create_country_leader = {
 			name = "Pierre Laval"
-			desc = "FRA_Pierre_Laval_Desc"
+			desc = "fra_Pierre_Laval_Desc"
 			picture = "P_Pierre_Laval.tga"
 			expire = "1965.1.1"
 			ideology = fascism_ideology
@@ -23,13 +23,13 @@ event = {
 		}
 	}
 	option = {
-		name = FRA.1.b
+		name = fra.1.b
 		ai_chance = { base = 10 }
 		hidden_effect = { kill_country_leader = yes }
 		create_country_leader = {
-			name = "François de la Rocque"
-			desc = "FRA_Francois_De_La_Rocque_Desc"
-			picture = "P_Francois_De_La_Rcoque.tga"
+			name = "françois de la Rocque"
+			desc = "fra_francois_De_La_Rocque_Desc"
+			picture = "P_francois_De_La_Rcoque.tga"
 			expire = "1965.1.1"
 			ideology = fascism_ideology
 			traits = {
@@ -37,13 +37,13 @@ event = {
 		}
 	}
 	option = {
-		name = FRA.1.c
+		name = fra.1.c
 		ai_chance = { base = 1 }
 		hidden_effect = { kill_country_leader = yes }
 		create_country_leader = {
-			name = "François Darlan"
-			desc = "FRA_Francois_Darlan_Desc"
-			picture = "P_Francois_Darlan.tga"
+			name = "françois Darlan"
+			desc = "fra_francois_Darlan_Desc"
+			picture = "P_francois_Darlan.tga"
 			expire = "1965.1.1"
 			ideology = fascism_ideology
 			traits = {
