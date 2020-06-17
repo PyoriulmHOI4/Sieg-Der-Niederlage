@@ -1,0 +1,10 @@
+FRA_Philippe_Petain_Is_Dead_Ding_Dong_The_Wicked_Witch_Is_Dead = {
+    if = {
+        limit = {
+            date > 1951.07.23
+        }
+        country_event = {
+			id = FRA.1
+		}
+    }
+}
