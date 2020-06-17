@@ -26,9 +26,9 @@ event = {
 		ai_chance = { base = 10 }
 		hidden_effect = { kill_country_leader = yes }
 		create_country_leader = {
-			name = "FRAnçois de la Rocque"
-			desc = "FRA_FRAncois_De_La_Rocque_Desc"
-			picture = "P_FRAncois_De_La_Rcoque.tga"
+			name = "François de la Rocque"
+			desc = "FRA_Francois_De_La_Rocque_Desc"
+			picture = "P_Francois_De_La_Rcoque.tga"
 			expire = "1965.1.1"
 			ideology = fascism_ideology
 			traits = {
@@ -40,9 +40,9 @@ event = {
 		ai_chance = { base = 1 }
 		hidden_effect = { kill_country_leader = yes }
 		create_country_leader = {
-			name = "FRAnçois Darlan"
-			desc = "FRA_FRAncois_Darlan_Desc"
-			picture = "P_FRAncois_Darlan.tga"
+			name = "François Darlan"
+			desc = "FRA_Francois_Darlan_Desc"
+			picture = "P_Francois_Darlan.tga"
 			expire = "1965.1.1"
 			ideology = fascism_ideology
 			traits = {
