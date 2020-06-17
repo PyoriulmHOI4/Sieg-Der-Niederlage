@@ -1,0 +1,5 @@
+add_namespace = FRA
+
+event = {
+	id = x
+}
