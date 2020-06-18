@@ -1,0 +1,25 @@
+add_namespace = france
+
+##Event: Petain has died!
+country_event = {
+	id = france.35
+	title = france.35.title
+	desc = france.35.desc
+
+	picture = GFX_fra_news_report_001
+
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = france.35.a
+		ai_chance = { factor = 1}
+	}
+	option = {
+		name = france.35.b
+		ai_chance = { factor = 1}
+	}
+	option = {
+		name = france.35.c
+		ai_chance = { factor = 1}
+	}
+}
