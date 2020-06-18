@@ -275,10 +275,22 @@ create_country_leader = {
 	name = "Philippe Pétain"
 	desc = "POLITICS_PHILIPPE_PÉTAIN_DESC"
 	picture = "P_Philippe_Petain.tga"
-	expire = "1965.1.1"
+	expire = "1951.7.23"
 	ideology = fascism_ideology
 	traits = {
 		
+	}
+}
+1951.7.24 = {
+	create_country_leader = {
+		name = "Vacant Office"
+		desc = "POLITICS_PHILIPPE_PÉTAIN_DESC"
+		picture = "P_Vacant.tga"
+		expire = "1951.7.23"
+		ideology = fascism_ideology
+		traits = {
+			
+		}
 	}
 }
 
